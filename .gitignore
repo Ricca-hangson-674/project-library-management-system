@@ -1,0 +1,5 @@
+/mysql
+/.m2
+/library-management-app/target
+
+.env
